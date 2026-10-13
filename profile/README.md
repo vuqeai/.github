@@ -5,5 +5,6 @@ Videolarda kullandığım kod, prompt ve dosyalar zamanla burada yayınlanacak.
 
 - YouTube: [@VuqeAI](https://www.youtube.com/@VuqeAI)
 - X: [@VuqeAI](https://x.com/VuqeAI)
+- Site: [vuqe.net](https://vuqe.net)
 
-*Learning AI in public — code, prompts and files from VuqeAI videos.*
+*I ask AI to do things. Sometimes it listens.*
