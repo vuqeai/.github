@@ -1,4 +1,4 @@
-# VuqeAI
+# Vuqe
 
 Yapay zekâyı öğreniyorum ve denediklerimi paylaşıyorum.
 Videolarda kullandığım kod, prompt ve dosyalar zamanla burada yayınlanacak.
